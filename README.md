@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @pavithiran
-- 👀 I’m interested in stuffs like ui/ux,computer security etc..
-- 🌱 Aspiring software Engineer
-- 💞️ 
-- 📫 
+just code 
 
 <!---
 pavithiran/pavithiran_C is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
